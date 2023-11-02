@@ -1,0 +1,19 @@
+{
+    "name": "wdd/slug",
+    "description": "Slug Creator",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Wdd\\Slug\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhammed Salama",
+            "email": "mohamed96salama@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
