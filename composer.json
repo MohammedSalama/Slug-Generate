@@ -3,6 +3,7 @@
     "description": "Slug Creator",
     "type": "library",
     "license": "MIT",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Wdd\\Slug\\": "src/"
@@ -10,10 +11,10 @@
     },
     "authors": [
         {
-            "name": "Muhammed Salama",
-            "email": "mohamed96salama@gmail.com"
+            "name": "Muhammed Salama"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {}
+    "require":  {
+        "php": ">=8.2"
+    }
 }
